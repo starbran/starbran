@@ -5,7 +5,7 @@ I am a B.Sc. (Hons) Electrical Engineer working as a Wireless Systems Engineer.
 <br>
 I am interested in electromagnetics, RF/Microwave circuits, and software engineering.
 <br>
-I am currently learning advanced pythonic design and architectural design in C.
+I am currently learning advanced pythonic design and driver design in C.
 <br>
 I am looking to collaborate in DSP software design and machine learning.
 
