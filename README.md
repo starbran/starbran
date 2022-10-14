@@ -2,7 +2,7 @@
 # Brandon Starks (@starbran)
 ---
 
-I am a Honors Bachelor's Electrical Engineer working as a Wireless Systems Engineer.
+I am an Honors Bachelor's Electrical Engineer working as a Wireless Systems Engineer.
 
 I am interested in electromagnetics, RF/Microwave circuits, and DSP/software engineering.
 
