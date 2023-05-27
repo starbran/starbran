@@ -4,7 +4,7 @@
 
 I am an Honors Bachelor's Electrical Engineer working as a Wireless Systems Engineer.
 
-I am interested in electromagnetics, RF/Microwave circuits, and DSP/software engineering.
+I am interested in Electromagnetics/RF circuits, DSP/Communication Systems (SATCOMM), and real-time software engineering.
 
 Please reach me by email at <brandonstarks.eecs@gmail.com>
 
